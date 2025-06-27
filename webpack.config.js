@@ -10,7 +10,7 @@ module.exports = {
   entry: {
     app: ["./index.tsx", "./styles.css"],
   },
-  devtool: "eval-source-map",
+  devtool: "source-map",
   stats: "errors-only",
   output: {
     filename: "[name].[chunkhash].js",
