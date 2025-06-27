@@ -14,7 +14,8 @@ module.exports = {
   stats: "errors-only",
   output: {
     filename: "[name].[chunkhash].js",
-    publicPath: "/",
+    publicPath: "/tgordyn-Modulo-7--Cloud-Laboratorio/",
+    path: path.resolve(__dirname, "dist"),
   },
   devServer: {
     historyApiFallback: true,
