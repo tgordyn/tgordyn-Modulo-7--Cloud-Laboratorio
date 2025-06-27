@@ -1,26 +1,5 @@
-# Módulo 4.1 - Frameworks - React Laboratorio Básico
+# Módulo 7 -- Cloud Laboratorio Básico
 
-## Filtrado por organización en miembros de Github
-En este proyecto básico vamos a buscar el listado de miembros de Github de la organización que indique el usuario.
-
-## Puntos Opcionales agregados
-- Paginación (10 páginas, se muestran hasta 10 usuarios por página)
-- Librería de componentes de React de Material UI
-
-## Instalación
-
-1. **Clonar el repositorio**:
-   git clone https://github.com/tgordyn/Modulo-4.1--Frameworks--React-Laboratorio.git
-
-2. **Navegar al directorio del repositorio**:
-   - cd Modulo-4.1--Frameworks--React-Laboratorio
-
-3. **Instalar las dependencias**:
-   `npm install`
-
-## Ejecutar aplicación
-
-Para ejecutar la aplicación se utiliza el siguiente comando:
-   `npm start`.
-Se abrirá por defecto en el localhost 8080 en el navegador.
+## Despliegue de forma manual en Github Pages
+Usamos como base un proyecto anterior que consiste en una aplicación de filtrado de miembros de Github según la organización que indique el usuario y realizamos el deploy de forma manual en Github pages, https://tgordyn.github.io/tgordyn-Modulo-7--Cloud-Laboratorio/
 Utilizar en el login las credenciales de user `admin` y pass `test`.
